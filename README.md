@@ -1,6 +1,7 @@
 # Equili: Institutional Audit & Asset Intelligence
 
 Equili is a high-performance inventory and reconciliation system designed for high-stakes environments where physical stock must be precisely aligned with digital records. Originally conceived to solve operational inefficiencies in the banking sector (specifically inspired by workflows at Consolidated Bank Ghana), Equili automates complex math, tracks usage velocity, and maintains a permanent audit trail.
+
 View Live Project here: [https://equili.infinityfreeapp.com/]
 
 ## Technical Specifications
@@ -38,5 +39,5 @@ Includes a global export engine that generates a structured CSV registry of all 
 4. Ensure the server has PHP 8.0+ and the PDO extension enabled.
 
 ## Developer
-[Your Name]
-Senior Systems Architect & UI Designer
+Jessica Odurowaa Danquah.
+Economist & Full-Stack Developer.
